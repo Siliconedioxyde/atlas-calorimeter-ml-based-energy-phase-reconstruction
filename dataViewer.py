@@ -1,5 +1,5 @@
 # this file is used just to "test the waters" and get a feel for the data,
-# plotting it, seeing it maximum and minimums, trying to infer what the columns are.
+# plotting it, seeing it maximum and minimums, visualizing your data is good in general.
 
 
 import torch
