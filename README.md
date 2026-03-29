@@ -1,7 +1,6 @@
 # ATLAS Calorimeter ML-Based Energy & Phase Reconstruction
 
 This repository contains my paper and supporting code for **signal reconstruction in the ATLAS calorimeter using machine learning**.  
-It includes the analysis scripts, explanatory text, and final submission materials used in the project.
 
 ## Contents
 - `paper.pdf` — Full paper
