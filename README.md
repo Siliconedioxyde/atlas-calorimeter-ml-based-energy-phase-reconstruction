@@ -5,12 +5,10 @@ It includes the analysis scripts, explanatory text, and final submission materia
 
 ## Contents
 - `paper.pdf` — Full paper
-- `Bonuspart.py` — Additional analysis routines
+- `phaseReconstruction.py` — phase reconstruction model
 - `dataViewer.py` — Script for visualizing calorimeter data
 - `linearModel.py` — Baseline linear model implementation
 - `readingnpz.py` — Loader for `.npz` datasets used in experiments
-- `FiguresOfMerit.pdf` — Performance metrics and evaluation figures
-- `FinalSubmission.pdf` — Final compiled submission
 
 ## Summary
 The ATLAS calorimeter produces complex signals that require accurate reconstruction for physics analysis.  
